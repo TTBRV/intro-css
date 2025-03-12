@@ -1,0 +1,53 @@
+header, footer, nav{
+    background-color: rgb(23, 142, 172);
+    padding: 60px;
+    border-radius: 8px;
+    border-style: dotted;
+    border-color: white;
+}
+nav{
+    padding: 10px;
+    background-color: firebrick;
+}
+a{
+    font-size: larger;
+}
+main{
+    padding: 60px;
+    background-image: url(../img/tijolo.jpg);
+    color: white;
+    border-style: solid;
+    border-color: red;
+    border-width: 8px;
+    border-radius: 8px;
+    margin: 0px;
+}
+
+#gosto{
+    background-color: black;
+    background-blend-mode: color;
+}
+
+
+i{
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkblue;
+    margin: 7px;
+    background-color: bisque;
+    border-radius: 10px;
+}
+
+#caixa{
+    border-radius: 10px;
+    resize: horizontal;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    background-image: url(../img/cat.gif);
+    background-size:150px;
+}
+img{
+    border-radius:50%;
+}
